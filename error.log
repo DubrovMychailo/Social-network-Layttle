@@ -1,0 +1,174 @@
+UserId: 
+Files: Array
+(
+    [media] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 0x0.webp
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 0x0.webp
+                )
+
+            [type] => Array
+                (
+                    [0] => image/webp
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => D:\wamp64\tmp\php94F7.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 84092
+                )
+
+        )
+
+)
+
+Content: 
+UserId: 
+Files: Array
+(
+    [media] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 0x0.webp
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 0x0.webp
+                )
+
+            [type] => Array
+                (
+                    [0] => image/webp
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => D:\wamp64\tmp\php27BD.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 84092
+                )
+
+        )
+
+)
+
+Content: 
+[add_post.php] ❌ Користувач не авторизований
+[add_post.php] ❌ Користувач не авторизований
+[add_post.php] ❌ Користувач не авторизований
+[add_post.php] ❌ Користувач не авторизований
+[add_post.php] ❌ Користувач не авторизований
+[add_post.php] ❌ Користувач не авторизований
+[add_post.php] ❌ Користувач не авторизований
+[add_post.php] ❌ Користувач не авторизований
+[add_post.php] ❌ Користувач не авторизований
+[add_post.php] ❌ Користувач не авторизований
+UserId: 
+Files: Array
+(
+    [media] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 0x0.webp
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 0x0.webp
+                )
+
+            [type] => Array
+                (
+                    [0] => image/webp
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => D:\wamp64\tmp\php55D9.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 84092
+                )
+
+        )
+
+)
+
+Content: 
+UserId: 
+Files: Array
+(
+    [media] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 0x0.webp
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 0x0.webp
+                )
+
+            [type] => Array
+                (
+                    [0] => image/webp
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => D:\wamp64\tmp\phpD278.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 84092
+                )
+
+        )
+
+)
+
+Content: 
+2025-09-07 14:26:40 | DB Error: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null
+2025-10-02 14:55:12 | DB Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo' in 'field list'
+2025-10-02 14:55:14 | DB Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo' in 'field list'
+2025-10-02 14:59:49 | DB Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo' in 'field list'
