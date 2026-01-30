@@ -96,9 +96,8 @@ try {
     ?>
     <div class="post mb-3" data-id="<?= htmlspecialchars($post['id']) ?>">
         <div class="d-flex align-items-center mb-2">
-            <img src="/uploads/<?= htmlspecialchars($post['user_photo'] ?? 'nophoto.webp') ?>"
-                 alt="Аватар" class="rounded-circle" style="width:40px;height:40px;">
-            <strong class="ms-2">
+            <img src="<?= (!empty($post['user_photo'])) ? '//Layttle/uploads/' . htmlspecialchars($post['user_photo']) : '//Layttle/uploads/nophoto.webp' ?>"
+                 alt="Аватар" class="rounded-circle" style="width:40px;height:40px;object-fit:cover;">            <strong class="ms-2">
                 <?= htmlspecialchars($post['firstname'] . ' ' . $post['lastname']) ?>
             </strong>
         </div>

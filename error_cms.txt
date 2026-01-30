@@ -179067,3 +179067,2657 @@ Getting session variable: user = Array
     [photo] => CoreKerbeus.png
     [email] => 
 )
+Session started or already active in Session constructorSession variable: user does not existSession started or already active in Session constructorSession variable: user does not existSession started or already active in Session constructorSession variable: user does not exist====== START LOGIN PROCESS ======
+SESSION після виконання login.php: Array
+(
+)
+
+Session variable: user does not exist====== START LOGIN PROCESS ======
+SESSION після виконання login.php: Array
+(
+)
+
+Session variable: user does not existSession started or already active in Session constructorSession variable: user does not existSet session variable: user = a:12:{s:2:"id";i:13;s:5:"login";s:6:"Dubrov";s:8:"password";s:6:"Dubrov";s:9:"firstname";s:6:"Dubrov";s:8:"lastname";s:6:"Dubrov";s:4:"role";s:5:"admin";s:7:"address";s:39:"Адміністраторська 55а";s:5:"phone";s:13:"+380967785345";s:4:"city";s:14:"Житомир";s:7:"country";s:14:"Україна";s:5:"photo";s:15:"CoreKerbeus.png";s:5:"email";s:0:"";}Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorRemoved session variable: userSession started or already active in Session constructorSession variable: user does not exist====== START LOGIN PROCESS ======
+SESSION після виконання login.php: Array
+(
+    [user_id] => 13
+)
+
+Session variable: user does not exist====== START LOGIN PROCESS ======
+SESSION після виконання login.php: Array
+(
+    [user_id] => 13
+)
+
+Session variable: user does not existSession started or already active in Session constructorSession variable: user does not existSet session variable: user = a:12:{s:2:"id";i:13;s:5:"login";s:6:"Dubrov";s:8:"password";s:6:"Dubrov";s:9:"firstname";s:6:"Dubrov";s:8:"lastname";s:6:"Dubrov";s:4:"role";s:5:"admin";s:7:"address";s:39:"Адміністраторська 55а";s:5:"phone";s:13:"+380967785345";s:4:"city";s:14:"Житомир";s:7:"country";s:14:"Україна";s:5:"photo";s:15:"CoreKerbeus.png";s:5:"email";s:0:"";}Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Session started or already active in Session constructorGetting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+SQL: SELECT * FROM users WHERE login = :param0 | Params: Array
+(
+    [param0] => Dubrov
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)
+Getting session variable: user = Array
+(
+    [id] => 13
+    [login] => Dubrov
+    [password] => Dubrov
+    [firstname] => Dubrov
+    [lastname] => Dubrov
+    [role] => admin
+    [address] => Адміністраторська 55а
+    [phone] => +380967785345
+    [city] => Житомир
+    [country] => Україна
+    [photo] => CoreKerbeus.png
+    [email] => 
+)

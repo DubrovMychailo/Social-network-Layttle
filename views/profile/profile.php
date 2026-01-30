@@ -6,6 +6,7 @@ $friends = $friends ?? [];
 $posts = $posts ?? [];
 $currentUser = $_SESSION['user'] ?? null;
 
+
 // Підрахунок загальної кількості медіа для сайдбару
 $totalMediaCount = 0;
 foreach ($posts as $p) {
@@ -26,6 +27,18 @@ if (!empty($posts)) {
         }
     }
     unset($post);
+    $profilePhoto = '/uploads/nophoto.webp'; // Заглушка за замовчуванням
+    if (!empty($userData['photo'])) {
+        // Перевіряємо, чи файл існує фізично (бажано, але не обов'язково)
+        // Просто формуємо шлях, як у хедері
+        $profilePhoto = '/uploads/' . $userData['photo'];
+    }
+
+// Логіка для аватарки поточного користувача (для форми створення посту)
+    $currentAuthPhoto = '/uploads/nophoto.webp';
+    if (!empty($currentUser['photo'])) {
+        $currentAuthPhoto = '/uploads/' . $currentUser['photo'];
+    }
 }
 ?>
 
@@ -109,7 +122,7 @@ if (!empty($posts)) {
     <div class="row">
         <div class="col-lg-4">
             <div class="profile-side-card p-3 mb-3 text-center">
-                <img src="<?= ($userData['photo'] ?? null) ?: '/uploads/nophoto.webp' ?>" class="rounded-circle mb-3 border" style="width:120px; height:120px; object-fit:cover;">
+                <img src="<?= $profilePhoto ?>" class="rounded-circle mb-3 border" style="width:120px; height:120px; object-fit:cover;">
                 <h5><?= htmlspecialchars(($userData['firstname'] ?? '') . ' ' . ($userData['lastname'] ?? '')) ?></h5>
                 <p class="text-muted small">@<?= htmlspecialchars($userData['login'] ?? 'user') ?></p>
 
@@ -153,7 +166,7 @@ if (!empty($posts)) {
         <div class="col-lg-8">
             <?php if ($isOwnProfile): ?>
                 <div class="post-card p-3 d-flex align-items-center gap-3 mb-3">
-                    <img src="<?= ($currentUser['photo'] ?? null) ?: '/uploads/nophoto.webp' ?>" class="rounded-circle" style="width:40px; height:40px;">
+                    <img src="<?= $profilePhoto ?>" class="rounded-circle" style="width:40px; height:40px;">
                     <div class="bg-light flex-grow-1 px-3 py-2 rounded-pill text-muted" style="cursor:pointer;" data-bs-toggle="modal" data-bs-target="#createPostModal">
                         Що у вас нового, <?= htmlspecialchars($currentUser['firstname'] ?? 'друже') ?>?
                     </div>
@@ -164,7 +177,10 @@ if (!empty($posts)) {
                 <?php foreach ($posts as $post): ?>
                     <div class="post-card post" data-id="<?= $post['id'] ?>">
                         <div class="post-header">
-                            <img src="<?= ($post['user_photo'] ?? null) ?: '/uploads/nophoto.webp' ?>" class="avatar-md">
+                            <?php
+                            $postUserPhoto = (!empty($post['user_photo'])) ? '/uploads/' . $post['user_photo'] : '/uploads/nophoto.webp';
+                            ?>
+                            <img src="<?= $postUserPhoto ?>" class="avatar-md" style="object-fit:cover;">
                             <div class="ms-2 post-info">
                                 <a href="#" class="post-author-name"><?= htmlspecialchars(($post['firstname'] ?? '') . ' ' . ($post['lastname'] ?? '')) ?></a>
                                 <div class="post-meta">
