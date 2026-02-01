@@ -141,23 +141,45 @@ if (!empty($posts)) {
                     </div>
                 </div>
             </div>
-
             <div class="profile-side-card p-3">
                 <h6 class="mb-3">Усі медіа профілю</h6>
                 <div class="row g-1">
                     <?php
-                    $limit = 9; $count = 0;
-                    foreach($posts as $p):
+                    $limit = 9;
+                    $allProfileMedia = [];
+
+                    // Збираємо всі фото та відео з усіх постів в один масив для галереї
+                    foreach($posts as $p) {
                         $pPhotos = is_array($p['photos']) ? $p['photos'] : (json_decode($p['photos'] ?? '[]', true) ?: []);
+                        foreach($pPhotos as $f) if(!empty($f)) $allProfileMedia[] = ['t'=>'img', 'f'=>$f];
+
                         $pVideos = is_array($p['videos']) ? $p['videos'] : (json_decode($p['videos'] ?? '[]', true) ?: []);
-                        $postMedia = array_merge($pPhotos, $pVideos);
-                        foreach($postMedia as $mediaItem):
-                            if($count < $limit): $count++; ?>
-                                <div class="col-4">
-                                    <img src="/uploads/posts/<?= htmlspecialchars($mediaItem) ?>" class="img-fluid rounded" style="aspect-ratio:1; object-fit:cover;">
-                                </div>
-                            <?php endif;
-                        endforeach;
+                        foreach($pVideos as $f) if(!empty($f)) $allProfileMedia[] = ['t'=>'vid', 'f'=>$f];
+                    }
+
+                    $count = 0;
+                    foreach($allProfileMedia as $index => $media):
+                        if($count < $limit): $count++; ?>
+                            <div class="col-4">
+                                <?php if($media['t'] == 'img'): ?>
+                                    <img src="//Layttle/uploads/posts/<?= htmlspecialchars($media['f']) ?>"
+                                         class="img-fluid rounded lb-trigger"
+                                         style="aspect-ratio:1; object-fit:cover; cursor:pointer;"
+                                         data-media='<?= json_encode($allProfileMedia) ?>'
+                                         data-index="<?= $index ?>">
+                                <?php else: ?>
+                                    <div class="position-relative">
+                                        <video class="img-fluid rounded lb-trigger"
+                                               style="aspect-ratio:1; object-fit:cover; cursor:pointer;"
+                                               data-media='<?= json_encode($allProfileMedia) ?>'
+                                               data-index="<?= $index ?>">
+                                            <source src="//Layttle/uploads/posts/<?= htmlspecialchars($media['f']) ?>" type="video/mp4">
+                                        </video>
+                                        <i class="bi bi-play-circle position-absolute top-50 start-50 translate-middle text-white fs-4" style="pointer-events:none;"></i>
+                                    </div>
+                                <?php endif; ?>
+                            </div>
+                        <?php endif;
                     endforeach; ?>
                 </div>
             </div>
@@ -279,8 +301,8 @@ if (!empty($posts)) {
         function updateLB() {
             const item = mList[mIdx];
             lbContent.innerHTML = item.t === 'img'
-                ? `<img src="/uploads/posts/${item.f}" style="max-height:85vh; max-width:90vw; object-fit:contain;">`
-                : `<video controls autoplay style="max-height:85vh; max-width:90vw;"><source src="/uploads/posts/${item.f}" type="video/mp4"></video>`;
+                ? `<img src="//Layttle/uploads/posts/${item.f}" style="max-height:85vh; max-width:90vw; object-fit:contain;">`
+                : `<video controls autoplay style="max-height:85vh; max-width:90vw;"><source src="//Layttle/uploads/posts/${item.f}" type="video/mp4"></video>`;
             lbCounter.innerText = `${mIdx + 1} / ${mList.length}`;
         }
 
